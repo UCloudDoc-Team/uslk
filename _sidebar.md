@@ -8,8 +8,8 @@
    * [计费模式](/uslk/pricing)
   <!-- * [防劫持治理](/uslk/websec) -->
 * 操作指南
-   * [创建](/uslk/operation)
-   * [管理](/uslk/statistics)
+   * [短链管理](/uslk/operation)
+   * [访问统计](/uslk/statistics)
 * 常见问题
    * 场景相关 <!-- 平台已支持三级及以下目录收起展开，为确保点击区域充分，包含三级目录的二级标题请勿添加链接 -->
       * [问题描述](相对链接)
