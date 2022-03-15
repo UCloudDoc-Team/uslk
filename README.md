@@ -9,8 +9,8 @@
 
 面向有短链需求、网址投放效果统计的用户，了解一下短链服务能力、应用场景
 
-* [什么是短链服务]((/uslk/introduction.md)
-* [应用场景]((/uslk/introduction.md)
+* [什么是短链服务](/uslk/introduction.md)
+* [应用场景](/uslk/introduction.md)
 * [词汇表](_glossary.md)
 
 
