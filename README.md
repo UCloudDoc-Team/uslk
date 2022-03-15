@@ -26,8 +26,8 @@
 面向USLK短链工具用户，向您介绍各种功能及使用方式
 
 * 操作指南
-  * [创建短链](/uslk/operation.md)
-  * [访问统计](/uslk/statistics.md)
+  * [创建短链](/uslk/features/create.md)
+  * [访问统计](/uslk/features/statistics.md)
 
 
 
