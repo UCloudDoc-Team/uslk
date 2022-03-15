@@ -11,7 +11,7 @@
 
 * [什么是短链服务](/uslk/introduction.md)
 * [应用场景](/uslk/typicals.md)
-* [词汇表](_glossary.md)
+<!--* [词汇表](_glossary.md) -->
 
 
 ## 2.购买及付费
