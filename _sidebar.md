@@ -8,8 +8,8 @@
    * [计费模式](/uslk/pricing)
   <!-- * [防劫持治理](/uslk/websec) -->
 * 操作指南
-   * [短链管理](/uslk/operation)
-   * [访问统计](/uslk/statistics)
+   * [短链管理](/uslk/features/create)
+   * [访问统计](/uslk/features/statistics)
 * [常见问题](/uslk/FAQ)
    <!-- * 场景相关  -->
      <!-- * [问题描述](相对链接)-->
