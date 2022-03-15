@@ -27,6 +27,7 @@
 
 * 操作指南
   * [创建短链](/uslk/operation.md)
+  * [访问统计](/uslk/statistics.md)
 
 
 
