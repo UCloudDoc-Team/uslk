@@ -6,7 +6,7 @@
    * [应用场景](/uslk/typicals)
 * 计费
    * [计费模式](/uslk/pricing)
-   * [防劫持治理](/uslk/websec)
+  <!-- * [防劫持治理](/uslk/websec) -->
 * 操作指南
    * [创建](/uslk/operation)
    * [管理](/uslk/statistics)
