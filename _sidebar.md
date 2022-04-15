@@ -10,6 +10,7 @@
 * 操作指南
    * [短链管理](/uslk/features/create)
    * [访问统计](/uslk/features/statistics)
+   * [短链搜索](/uslk/features/search)
 * [常见问题](/uslk/README)
    <!-- * 场景相关  -->
      <!-- * [问题描述](相对链接)-->
