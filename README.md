@@ -28,7 +28,7 @@
 * 操作指南
   * [创建短链](/uslk/features/create.md)
   * [访问统计](/uslk/features/statistics.md)
-
+  * [短链搜索](/uslk/features/search.md)
 
 
 ## 4.常见问题
